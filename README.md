@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ana Roxana</h1>
-<h2 align="center">A passionate frontend developer from Bolivia</h2>
-
+<h3 align="center">🚀 Turning ideas into backend solutions—Bolivian developer fueled by coffee, code, and a passion for performance and scalability. ☕💻</h3>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxanatech&label=Profile%20views&color=0e75b6&style=flat" alt="roxanatech" /> </p>
+<br>
 
--🔭 I’m currently working on Java, Spring Boot, MySQL  
+- 🔭 Currently working with Java, Spring Boot, and MySQL.
+  
+- 🌱 Currently learning Docker.
 
-- 🌱 I’m currently learning **Docker**
+- 📫 Feel free to reach out at anamarca.sistemas@gmail.com.
 
-- 📫 Feel free to reach me out **anamarca.sistemas@gmail.com**
+- 💡 Interested in software architecture, scalability, and cloud computing.
 
-- ⚡ Fun fact **💻 La música es mi energía, la lectura mi refugio y la programación mi lenguaje para el futuro.**
+- 👨‍💻 Open to collaboration on backend projects.
+
+- 🎯 Goal: To master microservices and cloud technologies.
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,12 +45,20 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/roxanatech" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="roxanatech" height="40" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/ana-marca-guzman" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="in/ana-marca-guzman" height="40" width="40" /></a>&nbsp;
-  <a href="https://discord.gg/mzPdbN7z" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="roxan_any_77786" height="40" width="40" /></a>
+<p align="left" style="display: flex; align-items: center; gap: 10px">
+  <a href="https://twitter.com/roxanatech" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="40" width="40" />
+  </a>
   
+  <a href="https://linkedin.com/in/ana-marca-guzman" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  
+  <a href="#" title="Discord: roxan_any_77786" style="text-decoration: none;">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="40" width="40" />
+  </a>
 </p>
+
 
 ----------------------------------------------------------------------
 Credit: [roxanaTech](https://github.com/roxanaTech)
