@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roxanatech&label=Profile%20views&color=0e75b6&style=flat" alt="roxanatech" /> </p>
 
-- 🌱 I’m currently learning **Back-end Development**
+-🔭 I’m currently working on Java, Spring Boot, MySQL  
 
-- 📫 How to reach me **anamarca.sistemas@gmail.com**
+- 🌱 I’m currently learning **Docker**
 
-- ⚡ Fun fact **Food and Music🎵 are the reasons to live**
+- 📫 Feel free to reach me out **anamarca.sistemas@gmail.com**
+
+- ⚡ Fun fact **💻 La música es mi energía, la lectura mi refugio y la programación mi lenguaje para el futuro.**
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
