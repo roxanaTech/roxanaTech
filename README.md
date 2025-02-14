@@ -39,9 +39,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/roxanatech" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="roxanatech" height="40" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/ana-marca-guzman" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="in/ana-marca-guzman" height="40" width="40" /></a>&nbsp;
-  <a href="https://discord.gg/roxan_any_77786" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="roxan_any_77786" height="40" width="40" /></a>
+  <a href="https://twitter.com/roxanatech" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="roxanatech" height="40" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/ana-marca-guzman" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="in/ana-marca-guzman" height="40" width="40" /></a>&nbsp;
+  <a href="https://discord.gg/mzPdbN7z" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="roxan_any_77786" height="40" width="40" /></a>
   
 </p>
 
