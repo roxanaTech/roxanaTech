@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Roxana</h1>
-<h3 align="center">🚀 Turning ideas into backend solutions—Bolivian developer fueled by coffee, code, and a passion for performance and scalability. ☕💻</h3>
+<h3 align="center">🚀 From concept to code: building efficient backends with a passion for optimization, security, and a touch of chocolate. ☕💻</h3>
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roxanatech&color=blue" alt="Profile views" />
