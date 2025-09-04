@@ -46,10 +46,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roxanatech&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"" alt="roxanatech" /></p>
 
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxanatech&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="roxanatech" /></p>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 10px; color:#fff;">
   <a href="https://twitter.com/roxanatech" target="_blank" style="text-decoration: none; border: none; outline: none;color:#fff;">
